@@ -1,4 +1,6 @@
 Credit Card Spending Analysis – Power BI
+
+
 📌 Project Overview
 This Power BI dashboard provides insights into credit card spending habits, helping businesses understand customer behavior, transaction patterns, and spending trends.
 
